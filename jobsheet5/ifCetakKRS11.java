@@ -14,7 +14,7 @@ class ifCetakKRS11 {
             
         } String pesanKrs = uktLunas ?
             "Pembayaran UKT terverifikasi\nSilahkan cetak KRS dan minta tanda tangan DPA":
-            "Registrasi ditolak. Silahkan lunasi UKT terlebih dahulu";
+            "Registrasi ditolak. Silahkan lunasi UKT terlebih dulu";
 
         System.out.println(pesanKrs);
         
