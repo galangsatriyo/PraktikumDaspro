@@ -8,9 +8,9 @@ public class TriangleNoPresensi {
 
         System.out.print("Masukan nilai n = ");
         int n = sc.nextInt();
-        int i = 1;
+        int i = 0;
         while (i <= n ) {
-            int j = 1;
+            int j = 0;
             while (j <= i) {
                 System.out.print("*");
                 j++;
