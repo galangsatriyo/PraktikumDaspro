@@ -17,7 +17,7 @@ public class Kafe11 {
         System.out.println("Silahkan pilih menu yang anda inginkan. ");
     }
     public static void main(String[] args) {
-        menu("Andi", true);
+        menu("Andir", true);
     }
 }
 
