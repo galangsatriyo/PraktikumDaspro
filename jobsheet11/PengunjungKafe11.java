@@ -13,6 +13,6 @@ public class PengunjungKafe11 {
     public static void main(String[] args) {
         daftarPengunjung("Ali", "Budi", "Citra");
         daftarPengunjung("ANDI");
-        daftarPengunjung("Doni", "Eti", "Fahmi", "Galih");
+        daftarPengunjung("Doni", "ETI", "Fahmi", "Galih");
     }
 }
